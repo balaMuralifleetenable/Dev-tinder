@@ -1,0 +1,20 @@
+{
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "description": "dev tinder",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javaScript"
+  ],
+  "author": "Bala Murali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
